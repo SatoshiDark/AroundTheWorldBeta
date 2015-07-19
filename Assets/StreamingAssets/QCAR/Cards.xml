@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LaPazCardPrint2212x2212" size="1.000000 1.000000" />
+    <ImageTarget name="EgiptoCardPrint2" size="1.000000 1.000000" />
+    <ImageTarget name="EgiptoCardPrint" size="1.000000 1.000000" />
+    <ImageTarget name="ParisCardPrint" size="1.000000 1.000000" />
+    <ImageTarget name="SanFranciscoCardPrint" size="1.000000 1.000000" />
+    <ImageTarget name="EgiptoCard" size="1.000000 1.000000" />
+    <ImageTarget name="TiwanakuCard5" size="1.000000 1.000000" />
+    <ImageTarget name="TiwanakuCard4" size="1.000000 1.000000" />
+    <ImageTarget name="ATWBlack" size="1.000000 1.000000" />
+    <ImageTarget name="ATW" size="1.000000 1.000000" />
+    <ImageTarget name="cat" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
